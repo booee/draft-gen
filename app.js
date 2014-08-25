@@ -1,5 +1,5 @@
 var Team = require('./lib/Team'),
-	Entries = require('./lib/Entries');
+    Entries = require('./lib/Entries');
 
 var teams = [
 	new Team('Brad', 1),

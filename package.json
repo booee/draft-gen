@@ -1,0 +1,20 @@
+{
+  "name": "draft-gen",
+  "version": "1.0.0",
+  "description": "Uses a lottery algorithm to select a priority order, which can be used to determine draft pick order, oor draft pick selection order",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "generate-draft": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brad-bowie/draft-gen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brad-bowie/draft-gen/issues"
+  },
+  "homepage": "https://github.com/brad-bowie/draft-gen#readme"
+}

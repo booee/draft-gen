@@ -1,0 +1,50 @@
+[
+    {
+        "name": "First Place Team",
+        "rank": 1
+    },
+    {
+        "name": "Second Place Team",
+        "rank": 2
+    },
+    {
+        "name": "Third Place Team",
+        "rank": 3
+    },
+    {
+        "name": "Fourth Place Team",
+        "rank": 4
+    },
+    {
+        "name": "Fifth Place Team",
+        "rank": 5
+    },
+    {
+        "name": "Sixth Place Team",
+        "rank": 6
+    },
+    {
+        "name": "Seventh Place Team",
+        "rank": 7
+    },
+    {
+        "name": "Eighth Place Team",
+        "rank": 8
+    },
+    {
+        "name": "Ninth Place Team",
+        "rank": 9
+    },
+    {
+        "name": "Tenth Place Team",
+        "rank": 10
+    },
+    {
+        "name": "Eleventh Place Team",
+        "rank": 11
+    },
+    {
+        "name": "Twelfth Place Team",
+        "rank": 12
+    }
+]

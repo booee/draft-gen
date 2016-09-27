@@ -1,4 +1,7 @@
 draft-gen
 =========
 
-Generate Draft Picks
+Generate Draft Order
+```
+./node cli.js
+```
